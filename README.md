@@ -1,3 +1,3 @@
 # numerator
 
-![Image alt](https://github.com/Kleimosc/numerator/raw/master/image.png)
+![Image alt](https://github.com/Kleimosc/meter/raw/master/image.png)
